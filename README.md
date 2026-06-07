@@ -1,6 +1,5 @@
 # 🤖 Agent Playground
 
-*Last Updated: 2026-06-07*
 
 Welcome to the **Agent Playground**! This is a Streamlit-based web application designed to act as a dynamic, interactive playground for building, testing, and interacting with custom LangChain agents.
 
