@@ -1,6 +1,6 @@
 from typing import Any
 
-import streamlit as st
+import streamlit as st #type:ignore
 
 from ui.agent_factory import build_agent
 from ui.logging_setup import _log_exc
@@ -139,3 +139,4 @@ def handle_user_input(
             "internals": internals,
         }
     )
+

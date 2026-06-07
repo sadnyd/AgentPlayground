@@ -14,9 +14,9 @@ This is a thin orchestrator — all logic lives in the ui/ package:
  - ui.chat            -> chat history & input handling
 """
 
-import streamlit as st
-from langchain_core.utils.uuid import uuid7
-from phoenix.otel import register
+import streamlit as st#type:ignore
+from langchain_core.utils.uuid import uuid7#type:ignore
+from phoenix.otel import register#type:ignore
 from dotenv import load_dotenv
 
 load_dotenv()
