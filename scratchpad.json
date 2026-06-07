@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SUG-0001",
+    "category": "new_tool",
+    "title": "Translation API",
+    "description": "Add a translation API (e.g., Google Translate API, DeepL) to enable real-time translation of text between multiple languages.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-06-07T11:54:03.977987+00:00"
+  },
+  {
+    "id": "SUG-0002",
+    "category": "new_tool",
+    "title": "Flight and Travel API",
+    "description": "Integrate a travel API (e.g., Amadeus, Skyscanner, Kayak) to fetch flight information, hotel availability, travel routes, and booking details.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-06-07T11:54:03.980692+00:00"
+  },
+  {
+    "id": "SUG-0003",
+    "category": "new_tool",
+    "title": "Weather API Integration",
+    "description": "Integrate a weather API (e.g., OpenWeatherMap, AccuWeather) to provide real-time weather updates, forecasts, and alerts for any location.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-06-07T11:54:03.988214+00:00"
+  },
+  {
+    "id": "SUG-0004",
+    "category": "new_tool",
+    "title": "Local Business Search API",
+    "description": "Integrate an API like Yelp, Google Places, or Foursquare to fetch information about local businesses, including reviews, ratings, and contact details.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-06-07T11:54:08.652252+00:00"
+  },
+  {
+    "id": "SUG-0005",
+    "category": "new_tool",
+    "title": "Event and Calendar API",
+    "description": "Add an API (e.g., Eventbrite, Google Calendar API) to fetch event details, schedules, and reminders.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-06-07T11:54:08.655209+00:00"
+  },
+  {
+    "id": "SUG-0006",
+    "category": "new_tool",
+    "title": "Currency Conversion API",
+    "description": "Add a currency conversion API (e.g., ExchangeRate-API, Fixer.io) to provide real-time currency exchange rates and conversions.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-06-07T11:54:10.605495+00:00"
+  }
+]
